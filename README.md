@@ -19,7 +19,7 @@ Once enabled, the 'Add Cuboid' operator may be accessed in 'Object Mode', from t
 - the Operator search (F3 key), or
 - the Add>Mesh menu
 
-There are three sets of (X/Y/Z) parameters for Radius (Size), Resolution (number of Segments) and Tone (factoring the spread/size of segments).
+There are three sets of (X/Y/Z) parameters for Radius (Size), Resolution (number of segments) and Tone (factoring the spread/size of segments).
 Additionally, there is an option for viewing the new object's wireframe.
 
 I hope it helps!
